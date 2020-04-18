@@ -1,0 +1,4 @@
+D:\Programming\VSWorkspace\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.exe
+D:\Programming\VSWorkspace\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.csprojAssemblyReference.cache
+D:\Programming\VSWorkspace\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.AssemblyInfoInputs.cache
+D:\Programming\VSWorkspace\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.AssemblyInfo.cs

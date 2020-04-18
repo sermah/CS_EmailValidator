@@ -1,0 +1,13 @@
+D:\Programming\VSWorkspace\EmailValidator\bin\Debug\netcoreapp3.1\Validator.exe
+D:\Programming\VSWorkspace\EmailValidator\bin\Debug\netcoreapp3.1\Validator.deps.json
+D:\Programming\VSWorkspace\EmailValidator\bin\Debug\netcoreapp3.1\Validator.runtimeconfig.json
+D:\Programming\VSWorkspace\EmailValidator\bin\Debug\netcoreapp3.1\Validator.runtimeconfig.dev.json
+D:\Programming\VSWorkspace\EmailValidator\bin\Debug\netcoreapp3.1\Validator.dll
+D:\Programming\VSWorkspace\EmailValidator\bin\Debug\netcoreapp3.1\Validator.pdb
+D:\Programming\VSWorkspace\EmailValidator\obj\Debug\netcoreapp3.1\Validator.csprojAssemblyReference.cache
+D:\Programming\VSWorkspace\EmailValidator\obj\Debug\netcoreapp3.1\Validator.csproj.CoreCompileInputs.cache
+D:\Programming\VSWorkspace\EmailValidator\obj\Debug\netcoreapp3.1\Validator.AssemblyInfoInputs.cache
+D:\Programming\VSWorkspace\EmailValidator\obj\Debug\netcoreapp3.1\Validator.AssemblyInfo.cs
+D:\Programming\VSWorkspace\EmailValidator\obj\Debug\netcoreapp3.1\Validator.dll
+D:\Programming\VSWorkspace\EmailValidator\obj\Debug\netcoreapp3.1\Validator.pdb
+D:\Programming\VSWorkspace\EmailValidator\obj\Debug\netcoreapp3.1\Validator.genruntimeconfig.cache
